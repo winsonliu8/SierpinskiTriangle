@@ -6,7 +6,7 @@ public void setup()
 }
 public void draw()
 {
-  sierpinski(0, 400, 2000); 
+    sierpinski(0, 350, 350); 
 }
 
 public void sierpinski(int x, int y, int len) 
